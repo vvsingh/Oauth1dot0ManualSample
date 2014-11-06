@@ -1,4 +1,4 @@
-name := "PaymentsVishSample"
+name := "Oauth1dot0ManualSample"
 
 version := "1.0-SNAPSHOT"
 
